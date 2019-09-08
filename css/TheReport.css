@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Droid Arabic Kufi';
+    src: url("../fonts/ubuntu/DroidKufi-Regular.ttf");
+}
+body{
+    font-family: 'Droid Arabic Kufi';
+}

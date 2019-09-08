@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Droid Arabic Kufi';
+    src: url("../fonts/ubuntu/DroidKufi-Regular.ttf");
+}
+body{
+    font-family: 'Droid Arabic Kufi';
+}
+
+
+.tabel
+{
+    background-color: white;
+    margin-top: 114px;
+    width: 82%;
+    box-shadow: 3px 0px 11px -7px #000;
+}
